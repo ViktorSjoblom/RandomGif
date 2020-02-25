@@ -1,0 +1,23 @@
+.search {
+    @include flexCenter();
+    padding-top: 5rem;
+    &__field {
+        width: 700px;
+        height: 70px;
+        border: #a540c4 solid 3px;
+        border-right: none;
+        outline: 0;
+        font-size: 25px;
+        padding-left: 1rem;
+    }
+    &__button {
+        background-image: url("images/search.gif");
+        background-repeat: round;
+        width: 70px;
+        height: 70px;
+        padding: 0;
+        border: none;
+        color: white;
+        outline: 0;
+    }
+}

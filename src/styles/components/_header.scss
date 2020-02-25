@@ -1,0 +1,6 @@
+.header {
+    @include flexCenter();
+    &__logo {
+        width: 700px;
+    }
+}

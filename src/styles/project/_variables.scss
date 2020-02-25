@@ -1,0 +1,8 @@
+// In this file you can keep all your Sass variables.
+@mixin flexCenter() { 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+} 
+
+
