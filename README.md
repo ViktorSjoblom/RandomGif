@@ -6,10 +6,6 @@
 
 This is a project where we were supposed to build an application that searches the Giphy-website for gifs!
 
-### Prerequisites
-
-You need a server software, for example MAMP
-
 ### Installing
 
 1. Clone the repository
