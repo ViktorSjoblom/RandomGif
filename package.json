@@ -28,7 +28,9 @@
     "inject-env": "^0.7.3",
     "query-string": "^6.10.1",
     "rollup": "^1.29.0",
-    "rollup-plugin-inject-env": "^0.1.0"
+    "rollup-plugin-inject-env": "^0.1.0",
+  "minimist": ">=0.2.1"
+}
   },
   "devDependencies": {
     "@babel/core": "^7.8.3",
