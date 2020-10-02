@@ -1,6 +1,6 @@
 # Random Gif
 
-<img src="https://media.giphy.com/media/3oEjI1f0fykCIyBbR6/giphy.gif" width="100%">
+<img src="https://media.giphy.com/media/3oEjI1f0fykCIyBbR6/giphy.gif" width="75%">
 
 ### About
 
